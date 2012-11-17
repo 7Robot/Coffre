@@ -15,7 +15,6 @@
  *  1[TX]  /   LCD (fil vert)
  *
  *
- *
  *  Branchements Bus : (vue de face)
  *
  *  15........................2 1 0   
